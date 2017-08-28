@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="relativehumiditytext" type="id">4</item>
+    <item name="absolutehumiditytext" type="id">3</item>
+</resources>
